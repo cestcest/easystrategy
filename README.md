@@ -1,0 +1,2 @@
+# easystrategy
+my strategy
